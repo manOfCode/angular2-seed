@@ -42,6 +42,7 @@
     "@angular/platform-server": "2.0.0-rc.3",
     "@angular/router": "3.0.0-alpha.8",
     "core-js": "^2.2.0",
+    "font-awesome": "git://github.com/manOfCode/Font-Awesome",
     "ie-shim": "^0.1.0",
     "rxjs": "5.0.0-beta.6",
     "zone.js": "~0.6.12"
